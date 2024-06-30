@@ -16,7 +16,7 @@ contract MyContract {
 
     // Function to increment the value
     function incrementValue() public {
-        value += 1;
+        value += 5;
     }
 
     // Function to decrement the value
